@@ -1,5 +1,8 @@
 # NCAAMarchMadnessAnalysis
 
+## Medium Article
+A more in-depth analysis for this project can be found [here](https://medium.com/deep-dives-with-data/can-we-predict-the-winner-of-the-march-madness-tournament-de3ed0ea6c0d).
+
 ## Code
 The code written for this project can be found in this Jupyter Notebook:
 ```MarchMadnessAnalysis.ipynb```
